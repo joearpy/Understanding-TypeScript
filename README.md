@@ -1,6 +1,6 @@
-# Understanding TypeScript
+# Understanding TypeScript - A Project Management App
 
-This repository includes my practice about TypeScript. 
+A Project Management App with TypeScript. This repository includes my practice about TypeScript. 
 
 ## How to start project?
 
