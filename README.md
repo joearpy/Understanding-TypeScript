@@ -14,8 +14,10 @@ npm install
 npm run start
 ```
 
+### Production
+
 ```
-tsc -w
+npm run production
 ```
 
 ## Course
